@@ -1,2 +1,2 @@
 # pythonstarter
-starter projects for python .
+starter projects for python ....
